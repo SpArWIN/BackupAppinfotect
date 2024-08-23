@@ -1,0 +1,8 @@
+{
+  "SourceDirectories": [
+    "C:\\SourceFolder1",
+    "C:\\SourceFolder2"
+  ],
+  "TargetDirectory": "C:\\Backup",
+  "LogLevel": "Info"
+}
